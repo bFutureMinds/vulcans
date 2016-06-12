@@ -1,0 +1,43 @@
+###################################### Greetings ######################################
+GRT|1|,NAME,|I'm Vulcan
+GRT|1|HOW,YOU|I'm fine, how about you?
+GRT|1|I,FINE|That's great, how may I help you?
+GRT|1|I,OK|How may I help you?
+GRT|1|I,GOOD|That's great, how may I help you?
+GRT|1|I,GREAT|That's great, how may I help you?
+GRT|1|I,COOL|That's great, how may I help you?
+GRT|1|I,SAD|Sorry to hear that, how may I help you?
+GRT|1|I,NOT,GOOD|Sorry to hear that, how may I help you?
+GRT|1|,THANKS,|It was a pleasure talking to you.
+GRT|1|,BYE,|Bye, it was a pleasure talking to you.
+GRT|1|,HI,|Hello, how may I help you?
+GRT|1|,HELLO,|Hi, how may I help you?
+GRT|1|,HEY,|Hi, how may I help you?
+GRT|1|,GREETINGS,|Hi, how may I help you?
+###################################### Credit Card Payments ######################################
+PMT|1|PAY|Payments are of two types, one time and recurring. One time payment is a service that allows you to make a single electronic payments. Recurring payment is a service that allows you to make a repeatable scheduled electronic payment. This payment will be debited from your total credit.
+PMT|1|PAYMENT|Payments are of two types, one time and recurring. One time payment is a service that allows you to make a single electronic payments. Recurring payment is a service that allows you to make a repeatable scheduled electronic payment. This payment will be debited from your total credit.
+PMT|1|MAKE,PAYMENT|Payments are of two types, one time and recurring. One time payment is a service that allows you to make a single electronic payments. Recurring payment is a service that allows you to make a repeatable scheduled electronic payment. Kindly specify the payment you want to make <MAKE ONETIME PAYMENT> or <MAKE RECURRING PAYMENT>. This payment will be debited from your total credit.
+PMT|1|PAYMENT,MAKE|Payments are of two types, one time and recurring. One time payment is a service that allows you to make a single electronic payments. Recurring payment is a service that allows you to make a repeatable scheduled electronic payment. Kindly specify the payment you want to make <MAKE ONETIME PAYMENT> or <MAKE RECURRING PAYMENT>. This payment will be debited from your total credit.
+PMT|1|MAKE,HOW,I,PAYMENT|Payments are of two types, one time and recurring. One time payment is a service that allows you to make a single electronic payments. Recurring payment is a service that allows you to make a repeatable scheduled electronic payment. Kindly specify the payment you want to make <MAKE ONETIME PAYMENT> or <MAKE RECURRING PAYMENT>. This payment will be debited from your total credit.
+PMT|1|HOW,MAKE,PAYMENT,I|Payments are of two types, one time and recurring. One time payment is a service that allows you to make a single electronic payments. Recurring payment is a service that allows you to make a repeatable scheduled electronic payment. Kindly specify the payment you want to make <MAKE ONETIME PAYMENT> or <MAKE RECURRING PAYMENT>. This payment will be debited from your total credit.
+PMT|1|NOT,PAYMENT,MAKE|There might be an issue. Please try after some time.
+PMT|1|NOT,PAYMENT|There might be an issue. Please try after some time.
+PMT|1|PAYMENT,NOT|There might be an issue. Please try after some time.
+PMT|2|ONETIME,PAYMENT|One time payment is a service that allows you to make a single electronic payments, this payment will be debited from your total credit.
+PMT|2|MAKE,PAYMENT,ONETIME|Here is the link to make one time payment: http://onetimepayment
+PMT|2|MAKE,ONETIME,PAYMENT|Here is the link to make one time payment: http://onetimepayment
+PMT|2|RECURRING,PAYMENT|Recurring payment is a service that allows you to make a repeatable scheduled electronic payment, this payment will be debited from your total credit.
+PMT|2|PAYMENT,RECURRING|Recurring payment is a service that allows you to make a repeatable scheduled electronic payment, this payment will be debited from your total credit.
+PMT|2|MAKE,RECURRING,PAYMENT|Here is the link to make a recurring payment: http://recurringpayment
+PMT|2|MAKE,PAYMENT,RECURRING|Here is the link to make a recurring payment: http://recurringpayment
+PMT|2|NOT,ONETIME,PAYMENT|There seems to be an issue. Please try after some time.
+PMT|2|NOT,MAKE,PAYMENT,ONETIME|There seems to be an issue. Please try after some time.
+PMT|2|NOT,MAKE,ONETIME,PAYMENT|There seems to be an issue. Please try after some time.
+PMT|2|NOT,RECURRING,PAYMENT|There seems to be an issue. Please try after some time.
+PMT|2|NOT,MAKE,RECURRING,PAYMENT|There seems to be an issue. Please try after some time.
+PMT|2|NOT,MAKE,PAYMENT,RECURRING|There seems to be an issue. Please try after some time.
+PMT|2|FAILED,MAKE,PAYMENT,RECURRING|There seems to be an issue. Please try after some time.
+PMT|2|FAILED,MAKE,PAYMENT,ONETIME|There seems to be an issue. Please try after some time.
+PMT|2|FAILED,MAKE,RECURRING,PAYMENT|There seems to be an issue. Please try after some time.
+PMT|2|FAILED,MAKE,ONETIME,PAYMENT|There seems to be an issue. Please try after some time.
